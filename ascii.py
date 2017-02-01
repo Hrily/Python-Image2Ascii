@@ -6,7 +6,7 @@ import re, sys
 if len(sys.argv)!=2 or '.' not in sys.argv[1]:
 	print 'Usage\n\t'+sys.argv[0]+' <image-file>'
 
-WIDTH = 200
+WIDTH = 124
 
 def get_ascii(p):
 	p = 255 - p
@@ -37,8 +37,7 @@ img = imread(sys.argv[1])
 h = len(img)
 w = len(img[0])
 ar = float(h)/w
-if w>200:
-	img = imresize(img, (int(ar*WIDTH), WIDTH))
+img = imresize(img, (int(ar*WIDTH/1.75), WIDTH))
 img_g = np.empty_like(img)
 
 
