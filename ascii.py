@@ -38,8 +38,6 @@ h = len(img)
 w = len(img[0])
 ar = float(h)/w
 img = imresize(img, (int(ar*WIDTH/1.75), WIDTH))
-img_g = np.empty_like(img)
-
 
 img = to_grayscale(img)
 
