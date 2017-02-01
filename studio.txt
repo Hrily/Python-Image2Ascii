@@ -1,128 +1,70 @@
-                                                                                                                                
-                                                                                                                                
-                                                                                                                                
-                                                                                                                                
-          BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB=**................*==BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB          
-          BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB=*..........................*=BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB          
-          BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB**.................................=BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB          
-          BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB=*......................................*=BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB          
-          BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB=............................................=BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB          
-          BBBBBBBBBBBBBBBBBBBBBBBBBBBBB=................................................=BBBBBBBBBBBBBBBBBBBBBBBBBBBBB          
-          BBBBBBBBBBBBBBBBBBBBBBBBBBB=....................................................=BBBBBBBBBBBBBBBBBBBBBBBBBBB          
-          BBBBBBBBBBBBBBBBBBBBBBBBB=........................................................=BBBBBBBBBBBBBBBBBBBBBBBBB          
-          BBBBBBBBBBBBBBBBBBBBBBBB*..........................................................*BBBBBBBBBBBBBBBBBBBBBBBB          
-          BBBBBBBBBBBBBBBBBBBBBB=..............................................................=BBBBBBBBBBBBBBBBBBBBBB          
-          BBBBBBBBBBBBBBBBBBBBB*................................................................=BBBBBBBBBBBBBBBBBBBBB          
-          BBBBBBBBBBBBBBBBBBBB*..................................................................*BBBBBBBBBBBBBBBBBBBB          
-          BBBBBBBBBBBBBBBBBB=......................................................................=BBBBBBBBBBBBBBBBBB          
-          BBBBBBBBBBBBBBBBB=........................................................................=BBBBBBBBBBBBBBBBB          
-          BBBBBBBBBBBBBBBB=..........................................................................=BBBBBBBBBBBBBBBB          
-          BBBBBBBBBBBBBBB=............................................................................=BBBBBBBBBBBBBBB          
-          BBBBBBBBBBBBBB=..............................................................................=BBBBBBBBBBBBBB          
-          BBBBBBBBBBBBB=................................................................................=BBBBBBBBBBBBB          
-          BBBBBBBBBBBB=..................................................................................=BBBBBBBBBBBB          
-          BBBBBBBBBBBB...................................................................................*BBBBBBBBBBBB          
-          BBBBBBBBBBB*....................................................................................*BBBBBBBBBBB          
-          BBBBBBBBBB*......................................................................................=BBBBBBBBBB          
-          BBBBBBBBB=........................................................................................=BBBBBBBBB          
-          BBBBBBBBB..........................................................................................BBBBBBBBB          
-          BBBBBBBB*...................................................*......................................=BBBBBBBB          
-          BBBBBBB=........................................**************......................................=BBBBBBB          
-          BBBBBBB*........................................***************.....................................*BBBBBBB          
-          BBBBBB=.........................................****************.....................................=BBBBBB          
-          BBBBBB..........................................*****************....................................*BBBBBB          
-          BBBBB=..........................................******************....................................=BBBBB          
-          BBBBB...........................................*******************...................................*BBBBB          
-          BBBB=...........................................********************...................................=BBBB          
-          BBBB............................................*********************..................................*BBBB          
-          BBB=............................................**********************..................................=BBB          
-          BBB*............................................*************......****.................................*BBB          
-          BBB.......................................************************..****.................................BBB          
-          BB=......................................**************************.*****................................=BB          
-          BB*.....................................****************************.*****...............................*BB          
-          BB......................................***********************************..............................*BB          
-          BB.....................................************=************************..............................BB          
-          B=.....................................**************************************.............................=B          
-          B*.....................................***************************************............................*B          
-          B......................................****************************************............................B          
-          B......................................*****************************************...........................B          
-          =......................................******************************************..........................=          
-          =......................................*******************************************.........................=          
-          *......................................********************************************........................*          
-          *......................................*********************************************.......................*          
-          *......................................**********************************************......................*          
-          *......................................********.************.*************************.....................*          
-          *......................................*********.**********.***************************....................*          
-          *......................................*********..********..****************************...................*          
-          *......................................**********...****..*******************************..................*          
-          .......................................*************....*******************........         ...............*          
-          ........................................*******************************...........           ..............*          
-          *........................................******************************...........           ..............*          
-          *........................................ .**********************. ***............           ..............*          
-          *.......................................   .********************.  .**............           *.............*          
-          *.......................................    .******************.    **............           *.............*          
-          =......................................      .****************.      *............           *.............=          
-          =......................................       .**************.       .............          .*.............=          
-          |.....................................         .************.         *..........           .*.............|          
-          |....................................           .**********.          ...........           *..............|          
-          B....................................            **********            *.........           *..............B          
-          B*..................................             **********             ........           .*.............*B          
-          B*..................................            ***********.            ........           ...............=B          
-          B=.................................            .************.            ......            *..............|B          
-          B|.................................            *************.            ......           .*..............|B          
-          BB................................            .**********.....            ....            .*.............*BB          
-          BB=..............................             *****...........            ....            *..............=BB          
-          BB|..............................            .*****............            *.            .*..............|BB          
-          BBB.............................             *****.............                          *..............*BBB          
-          BBB=............................            *****...............                        .*..............=BBB          
-          BBB|...........................            .*****................                       *...............|BBB          
-          BBBB*..........................            ******................                      .*..............*BBBB          
-          BBBB=.........................            .*****..................                    .*...............|BBBB          
-          BBBBB*.......................             ******..................                    *...............*BBBBB          
-          BBBBB=.......................            ******....................                  **...............|BBBBB          
-          BBBBBB*.....................             ******....................                 .*...............*BBBBBB          
-          BBBBBB=.....................              .****...................                 .*................|BBBBBB          
-          BBBBBBB*...................                 .***...............                   .**...............*BBBBBBB          
-          BBBBBBB|..................                      ............                      **................|BBBBBBB          
-          BBBBBBBB=.................                                                        *................=BBBBBBBB          
-          BBBBBBBBJ................                                                         ................*JBBBBBBBB          
-          BBBBBBBBB|...............                                                          ...............|BBBBBBBBB          
-          BBBBBBBBBB=.............                                                            .............=BBBBBBBBBB          
-          BBBBBBBBBBB*............                                                            ............*BBBBBBBBBBB          
-          BBBBBBBBBBB|...........                                                              ..........*|BBBBBBBBBBB          
-          BBBBBBBBBBBB|.........             *.                                   .            ..........|BBBBBBBBBBBB          
-          BBBBBBBBBBBBB|........            .***.                              ..**.            ........|BBBBBBBBBBBBB          
-          BBBBBBBBBBBBBB|......             ******.                          .***...             ......|BBBBBBBBBBBBBB          
-          BBBBBBBBBBBBBBB|.....            **********..                   .***.......            .....|BBBBBBBBBBBBBBB          
-          BBBBBBBBBBBBBBBB|...            .***************.............*****..........            ...|BBBBBBBBBBBBBBBB          
-          BBBBBBBBBBBBBBBBB|..            *******************************.............            .*|BBBBBBBBBBBBBBBBB          
-          BBBBBBBBBBBBBBBBBB|            .***************************..................            |BBBBBBBBBBBBBBBBBB          
-          BBBBBBBBBBBBBBBBBB             ************************......................             BBBBBBBBBBBBBBBBBB          
-          BBBBBBBBBBBBBBBBBB            *****************...............................            BBBBBBBBBBBBBBBBBB          
-          BBBBBBBBBBBBBBBBB             ***************.................................             BBBBBBBBBBBBBBBBB          
-          BBBBBBBBBBBBBBBB             ****************..................................            .BBBBBBBBBBBBBBBB          
-          BBBBBBBBBBBBBBBB            .****************..................................             BBBBBBBBBBBBBBBB          
-          BBBBBBBBBBBBBBB             =***************...................................*             BBBBBBBBBBBBBBB          
-          BBBBBBBBBBBBBBB            .J|=**************.................................*|.            BBBBBBBBBBBBBBB          
-          BBBBBBBBBBBBBB             BBBJ=*************...............................*|BBB             BBBBBBBBBBBBBB          
-          BBBBBBBBBBBBBB            .BBBBBJ|=**********............................*=|BBBBB*            BBBBBBBBBBBBBB          
-          BBBBBBBBBBBBB             BBBBBBBBP|=********..........................=|JBBBBBBBB.            BBBBBBBBBBBBB          
-          BBBBBBBBBBBB             .BBBBBBBBBBBJ|=*****......................*=|JBBBBBBBBBBB*            .BBBBBBBBBBBB          
-          BBBBBBBBBBBB            .BBBBBBBBBBBBBBBBJ|==******.........***==||BBBBBBBBBBBBBBBB.            BBBBBBBBBBBB          
-          BBBBBBBBBBB             BBBBBBBBBBBBBBBBBBBBBBJJ|||||||====||JBBBBBBBBBBBBBBBBBBBBBB             BBBBBBBBBBB          
-          BBBBBBBBBBB            .BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB.            BBBBBBBBBBB          
-          BBBBBBBBBB             BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB             BBBBBBBBBB          
-          BBBBBBBBBB            .BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB*            BBBBBBBBBB          
-          BBBBBBBBBB            BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB.           BBBBBBBBBB          
-          BBBBBBBBBB           .BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB*           BBBBBBBBBB          
-          BBBBBBBBBB          .BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB.          BBBBBBBBBB          
-          BBBBBBBBBB          BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB.         BBBBBBBBBB          
-          BBBBBBBBBB        .BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB.        BBBBBBBBBB          
-          BBBBBBBBBB       .BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB*       BBBBBBBBBB          
-          BBBBBBBBBB     .BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB.     BBBBBBBBBB          
-          BBBBBBBBBB    .BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB*    BBBBBBBBBB          
-          BBBBBBBBBB  .BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB.  BBBBBBBBBB          
-                                                                                                                                
-                                                                                                                                
-                                                                                                                                
-                                                                                                                                
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB .=|=||||||||||=|== BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB|====*****..........*****====|BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB.===**..............................**==|.BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB|==**.......................................**===|BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB===**..............................................**===BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBJ==*.....................................................**=|JBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBJ=*...........................................................*==JBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBBBBBBBBBBBB|=*................................................................*=|BBBBBBBBBBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBBBBBBBBBB==*....................................................................*=|BBBBBBBBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBBBBBBBB==*........................................................................*=JBBBBBBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBBBBBB =*............................................................................== BBBBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBBBBB==...............................................................................*=|BBBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBBBB=*..................................................................................=|BBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBBB=*....................................................................................*=BBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBJ=..................................................*....................................*=JBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBB.=.......................................***************...................................*=.BBBBBBBBBBBBBBB
+BBBBBBBBBBBBBB =*.......................................*****************..................................*= BBBBBBBBBBBBBB
+BBBBBBBBBBBBBP=*........................................******************..................................*=PBBBBBBBBBBBBB
+BBBBBBBBBBBBB=*.........................................********************.................................*=BBBBBBBBBBBBB
+BBBBBBBBBBBB=*..........................................**********************................................=|BBBBBBBBBBBB
+BBBBBBBBBBB.=......................................*****************************..............................*==BBBBBBBBBBB
+BBBBBBBBBBB=*....................................********************************..............................*=BBBBBBBBBBB
+BBBBBBBBBB==....................................***********************************.............................==BBBBBBBBBB
+BBBBBBBBBB=*...................................*************************************............................*|BBBBBBBBBB
+BBBBBBBBBB=....................................***************************************..........................*=BBBBBBBBBB
+BBBBBBBBB==....................................*****************************************.........................==BBBBBBBBB
+BBBBBBBBB=*....................................*******************************************.......................*=BBBBBBBBB
+BBBBBBBBB=*....................................********************************************......................*|BBBBBBBBB
+BBBBBBBBB=.....................................**********************************************....................*|BBBBBBBBB
+BBBBBBBBB=.....................................******************..***************************...................*|BBBBBBBBB
+BBBBBBBBB=......................................*********************************.........         ..............*|BBBBBBBBB
+BBBBBBBBB=.........................................***************************...........           ..............|BBBBBBBBB
+BBBBBBBBB=.......................................   .******************.   .*............           .............*|BBBBBBBBB
+BBBBBBBBB|*....................................      .****************.     .............          ..............*|BBBBBBBBB
+BBBBBBBBB|*...................................         .************.        ...........           ..............*|BBBBBBBBB
+BBBBBBBBB|=..................................            **********           ..........           *.............=JBBBBBBBBB
+BBBBBBBBBB=.................................             *********.            ........           .*.............|BBBBBBBBBB
+BBBBBBBBBB|*...............................             .**********.            ......            ..............*|BBBBBBBBBB
+BBBBBBBBBBP=..............................             .**********...            ....            ...............=PBBBBBBBBBB
+BBBBBBBBBBB|*............................             .****...........            ..            .*.............*|BBBBBBBBBBB
+BBBBBBBBBBB|=...........................             .****.............                        ...............*|JBBBBBBBBBBB
+BBBBBBBBBBBBJ=.........................             .****...............                      ................=JBBBBBBBBBBBB
+BBBBBBBBBBBBB|*.......................             *****.................                    .*..............*|BBBBBBBBBBBBB
+BBBBBBBBBBBBBB|*.....................             ******..................                  .*..............*|BBBBBBBBBBBBBB
+BBBBBBBBBBBBBBJ|*...................              ...***.................                  ................*|JBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBJ|*.................                    .............                     .................*|JBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBP|*...............                                                       ................*|PBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBBJ|*.............                                                         ..............*|PBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBBBBJ=...........                                                           ............=JBBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBBBBBJ|*........             .                                  .            .........*|JBBBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBBBBBBP|=*.....            .****..                          ......            ......*=|PBBBBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBBBBBBBBJ|=...            .*********....               ............            ...*=|JBBBBBBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBBBBBBBBBBJ|*            .*****************..........*..............            .=|JBBBBBBBBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBBBBBBBBBBBB            .**********************......................             BBBBBBBBBBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBBBBBBBBBB             .**************................................              BBBBBBBBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBBBBBBBBB             .***************..................................            .BBBBBBBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBBBBBBBB             .|==*************................................*=.            .BBBBBBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBBBBBBB             .*PPJ|==**********............................**=|JJ=.             BBBBBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBBBBBB.            .*BBBBPPJJ||==******.....................***==|JJ=BBBB*.            .BBBBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBBBBB             .=BBBBBBBBBBPPJJJ||====**************===|||JJPBBBBBBBBBB=.            .BBBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBBBB.            .BBBBBBBBBBBBBBBBBBBBBJJJJJJJJJJJJJJJJBBBBBBBBBBBBBBBBBBBBB.            .BBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBBBB            . BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB .            BBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBBBB           .=BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB=.           BBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBBBB          ..BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB|.          BBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBBBB        .. BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB *.        BBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBBBB      ..BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB*..     BBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBBBB   .. BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBJ*.  .BBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBBBB .  BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB =. BBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
