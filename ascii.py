@@ -5,6 +5,7 @@ import re, sys
 
 if len(sys.argv)!=2 or '.' not in sys.argv[1]:
 	print 'Usage\n\t'+sys.argv[0]+' <image-file>'
+	exit(0)
 
 WIDTH = 124
 
