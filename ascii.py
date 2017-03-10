@@ -42,6 +42,9 @@ img = imresize(img, (int(ar*WIDTH/1.75), WIDTH))
 
 img = to_grayscale(img)
 
+print img
+print img.shape
+
 filename = sys.argv[1]
 filename = re.sub(r'[.*\.](.*)', '.txt', filename)
 file = open(filename, 'w')
