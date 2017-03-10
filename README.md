@@ -9,14 +9,14 @@ Python script to convert image to ascii text
 ![studio-ascii](studio-ascii.png)
 
 ### Usage 
-	`python ascii.py <path-to-image-file>`
+	python ascii.py <path-to-image-file>
 
 ### Dependencies
 
 The project has needs following python libraries to be installed:
 
 + SciPy
-+ Numpy
++ NumPy
 + MatPlotLib
 
 To install them, type following in your terminal:
