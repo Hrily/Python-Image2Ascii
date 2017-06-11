@@ -21,8 +21,14 @@ The project has needs following python libraries to be installed:
 
 To install them, type following in your terminal:
 
-`pip install scipy`
+```
+pip install -r requirements.txt
+```
 
-`pip install numpy`
+OR
 
-`pip install matplotlib`
+```
+pip install scipy
+pip install numpy
+pip install matplotlib
+```
