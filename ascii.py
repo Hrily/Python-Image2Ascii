@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import re, sys
 
 if len(sys.argv)!=2 or '.' not in sys.argv[1]:
-	print 'Usage\n\t'+sys.argv[0]+' <image-file>'
+	print('Usage\n\t'+sys.argv[0]+' <image-file>')
 	exit(0)
 
 WIDTH = 124
@@ -31,7 +31,7 @@ def to_grayscale(img):
 	if len(img.shape) == 2:
 		return img
 	g = np.sum(img, axis=2);
-	g /= 3
+	g = g / 3
 	return g
 
 img = imread(sys.argv[1])
@@ -42,8 +42,8 @@ img = imresize(img, (int(ar*WIDTH/1.75), WIDTH))
 
 img = to_grayscale(img)
 
-print img
-print img.shape
+print(img)
+print(img.shape)
 
 filename = sys.argv[1]
 filename = re.sub(r'[.*\.](.*)', '.txt', filename)
@@ -56,4 +56,4 @@ for i in range(len(img)):
 	ascii_str = ascii_str + '\n'
 	file.write(ascii_str)
 
-print "Ascii image saved to "+filename
+print("Ascii image saved to "+filename)
